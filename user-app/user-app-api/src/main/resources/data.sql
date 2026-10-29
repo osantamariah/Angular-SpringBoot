@@ -8,26 +8,26 @@ ALTER TABLE roles AUTO_INCREMENT = 1;
 -- USERS
 INSERT INTO users (name, last_name, email, username, password)
 VALUES ('Carlos', 'Ramírez', 'carlos.ramirez@email.com', 'cramirez',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('María', 'González', 'maria.gonzalez@email.com', 'mariagonz',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Juan', 'Pérez', 'juan.perez@email.com', 'juanperz',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Ana', 'López', 'ana.lopez@email.com', 'analopez',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Luis', 'Martínez', 'luis.martinez@email.com', 'luismart',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
 
        ('Sofía', 'Hernández', 'sofia.hernandez@email.com', 'sofiahern',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Diego', 'Castro', 'diego.castro@email.com', 'diegocastro',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Valeria', 'Torres', 'valeria.torres@email.com', 'valeriatorres',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Andrés', 'Vargas', 'andres.vargas@email.com', 'andresvargas',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O'),
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6'),
        ('Camila', 'Rojas', 'camila.rojas@email.com', 'camilarojas',
-        '$2a$12$CECZ4W.UGP5E7Aoav/.VoeajJFH2IM7VCXQltw7bJ0y/eu8C38U7O');
+        '$2a$12$3eHj4rMJiszPCaJLLZBX9.3pLg8v1X0EqSqoJUFC3qIc8Us2mkDN6');
 
 -- ROLES
 INSERT INTO roles (name)
